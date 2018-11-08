@@ -55,7 +55,13 @@ create_folders() {
 	mkdir -p '404_Risk_Register'
 	cd ..
 	echo "=40_Monitoring_and_Control subdirectories created="
-	
+
+	### subdirectories for 50_Closure
+	cd '50_Closure'
+	mkdir -p '501_UAT'
+	cd ..
+	echo "=50_Closure subdirectories created="	
+
 	### END
 }
 
