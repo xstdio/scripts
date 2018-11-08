@@ -4,7 +4,11 @@
 test() {
 	echo "test func"
 }
-
+help() {
+	echo "test"
+	echo "create_folders"
+	echo "default"
+}
 create_folders() {
 
 	### START
