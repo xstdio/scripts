@@ -24,7 +24,7 @@ No installation required. Run the shell scripts in terminal.
 ###### rm-3-crlf.ps1
 > powershell script to remove additional ```CR``` ```LF``` in file
 
-###### rm-3-crlf.ps1
+###### spool-oracle
 > reference for spooling out csv from oracle
 
 ### References
