@@ -15,6 +15,7 @@ create_folders() {
 	
 	echo "=Creating project folder structure="
 	mkdir -p '00_Archive'
+	mkdir -p '00_Reference'
 	mkdir -p '10_Initiating'
 	mkdir -p '20_Planning'
 	mkdir -p '30_Execution'
@@ -66,6 +67,7 @@ create_folders() {
 }
 
 default() {
+	help
 	echo "exiting..."
 }
 
