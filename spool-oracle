@@ -1,0 +1,13 @@
+set colsep on    
+set heading on  
+set trimspool on
+set headsep off 
+set linesize 1000
+set numw 20      
+ 
+spool towns.csv;
+ 
+select *
+  from towns;
+ 
+spool off;
