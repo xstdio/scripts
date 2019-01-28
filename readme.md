@@ -24,6 +24,10 @@ No installation required. Run the shell scripts in terminal.
 ###### rm-3-crlf.ps1
 > powershell script to remove additional ```CR``` ```LF``` in file
 
+###### rm-3-crlf.ps1
+> reference for spooling out csv from oracle
+
 ### References
 1. https://stephan.io/split-a-csv-in-windows-powershell/
 2. https://www.dummies.com/computers/operating-systems/windows-xp-vista/create-run-powershell-script/
+3. http://www.dba-oracle.com/t_sqlplus_spool.htm
