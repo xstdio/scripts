@@ -18,6 +18,9 @@ No installation required. Run the shell scripts in terminal.
 > ```create_folders``` - create folders based on PMP naming convention
 >
 
+###### invoke-rest-example.ps1
+> powershell script to curl elastic example
+
 ###### split-ln.V0.2.ps1
 > powershell script to split file based on the number of lines
 
@@ -31,3 +34,4 @@ No installation required. Run the shell scripts in terminal.
 1. https://stephan.io/split-a-csv-in-windows-powershell/
 2. https://www.dummies.com/computers/operating-systems/windows-xp-vista/create-run-powershell-script/
 3. http://www.dba-oracle.com/t_sqlplus_spool.htm
+4. https://www.jokecamp.com/blog/invoke-restmethod-powershell-examples/
